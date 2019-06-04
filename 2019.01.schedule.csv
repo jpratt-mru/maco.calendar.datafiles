@@ -1,4 +1,4 @@
-course,section,section-capacity,dow,start-time,duration,room,first-name,last-name
+course,section,sectioncapacity,dow,startingtime,duration,room,firstname,lastname
 COMP1103,1,50,Thursday,13:00,1:30,B217,Jim,Davis
 COMP1103,1,50,Tuesday,13:00,1:30,B217,Jim,Davis
 COMP1103,501,42,Thursday,14:30,1:00,E203,Jim,Davis
