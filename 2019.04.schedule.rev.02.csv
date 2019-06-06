@@ -53,11 +53,11 @@ COMP1631,404,17,Wednesday,14:30,1:00,B107,Paul,Pospisil
 COMP2001,1,50,Friday,10:30,1:00,T107,Patrick,Perri
 COMP2001,1,50,Wednesday,10:30,1:00,T107,Patrick,Perri
 COMP2001,1,50,Monday,10:30,1:00,T107,Patrick,Perri
-COMP2001,401,25,Monday,13:20,1:00,B162,Patrick,Perri,Edited
-COMP2001,401,25,Wednesday,13:30,1:00,B162,Patrick,Perri,Edited
-COMP2001,402,25,Monday,14:30,1:00,B162,Patrick,Perri,Edited
-COMP2001,402,25,Wednesday,14:30,1:00,B162,Patrick,Perri,Edited
-COMP2001,2,50,Friday,13:00,1:30,O222,Faith-Michael,Uzoka,Edited
+COMP2001,401,25,Monday,13:20,1:00,B162,Patrick,Perri
+COMP2001,401,25,Wednesday,13:30,1:00,B162,Patrick,Perri
+COMP2001,402,25,Monday,14:30,1:00,B162,Patrick,Perri
+COMP2001,402,25,Wednesday,14:30,1:00,B162,Patrick,Perri
+COMP2001,2,50,Friday,13:00,1:30,O222,Faith-Michael,Uzoka
 COMP2001,2,50,Wednesday,13:00,1:30,O222,Faith-Michael,Uzoka
 COMP2001,403,25,Friday,14:30,1:00,E203,Faith-Michael,Uzoka
 COMP2001,403,25,Thursday,14:30,1:00,B162,Faith-Michael,Uzoka
@@ -114,7 +114,6 @@ COMP3533,501,16,Thursday,12:00,1:00,B160,Mingwei,Gong
 COMP3533,501,16,Thursday,12:00,1:00,B215,Mingwei,Gong
 COMP3533,502,16,Thursday,13:00,1:00,B160,Mingwei,Gong
 COMP3533,502,16,Thursday,13:00,1:00,B215,Mingwei,Gong
-COMP3591,1,25,,,,,,
 COMP4535,1,30,Wednesday,13:00,1:30,EA1068,Mingwei,Gong
 COMP4535,1,30,Monday,13:00,1:30,EA1068,Mingwei,Gong
 COMP4543,1,30,Wednesday,16:00,1:30,E131,Terri,Tibbel-Mosher
