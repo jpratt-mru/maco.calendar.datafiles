@@ -48,15 +48,15 @@ COMP1631,2,34,Tuesday,11:30,1:00,EA2021,Namrata,Khemka
 COMP1631,2,34,Monday,11:30,1:00,EA2021,Namrata,Khemka
 COMP1631,403,17,Friday,13:30,1:00,B107,Paul,Pospisil
 COMP1631,403,17,Wednesday,13:30,1:00,B107,Paul,Pospisil
-COMP1631,404,17,Friday,14:30,1:00,B107,Paul,Pospisil
-COMP1631,404,17,Wednesday,14:30,1:00,B107,Paul,Pospisil
+COMP1631,404,17,Friday,14:30,1:00,B162,Paul,Pospisil
+COMP1631,404,17,Wednesday,14:30,1:00,B162,Paul,Pospisil
 COMP2001,1,50,Friday,10:30,1:00,T107,Patrick,Perri
 COMP2001,1,50,Wednesday,10:30,1:00,T107,Patrick,Perri
 COMP2001,1,50,Monday,10:30,1:00,T107,Patrick,Perri
 COMP2001,401,25,Monday,13:20,1:00,B162,Patrick,Perri
 COMP2001,401,25,Wednesday,13:30,1:00,B162,Patrick,Perri
-COMP2001,402,25,Monday,14:30,1:00,B162,Patrick,Perri
-COMP2001,402,25,Wednesday,14:30,1:00,B162,Patrick,Perri
+COMP2001,402,25,Monday,14:30,1:00,B107,Patrick,Perri
+COMP2001,402,25,Wednesday,14:30,1:00,B107,Patrick,Perri
 COMP2001,2,50,Friday,13:00,1:30,O222,Faith-Michael,Uzoka
 COMP2001,2,50,Wednesday,13:00,1:30,O222,Faith-Michael,Uzoka
 COMP2001,403,25,Friday,14:30,1:00,E203,Faith-Michael,Uzoka
@@ -207,9 +207,9 @@ MATH2333,402,36,Friday,14:00,1:00,EB1011,Ganesh,Bhandari
 MATH2333,3,36,Wednesday,11:30,1:30,T139,Eric,Roetteger
 MATH2333,3,36,Monday,11:30,1:30,T139,Eric,Roetteger
 MATH2333,403,36,Friday,11:30,1:00,EB1011,Eric,Roetteger
-MATH3101,1,15,Monday,16:30,1:00,B173,Indy,Lagu
-MATH3101,1,15,Wednesday,14:30,2:00,B173,Indy,Lagu
-MATH3101,401,15,Friday,14:30,2:00,B173,Indy,Lagu
+MATH3101,1,15,Monday,16:30,1:00,B215,Indy,Lagu
+MATH3101,1,15,Wednesday,14:30,2:00,B215,Indy,Lagu
+MATH3101,401,15,Friday,14:30,2:00,B107,Indy,Lagu
 MATH3201,1,20,Tuesday,11:30,3:00,I149F,Roberta,La Haye
 MATH4201,1,10,Friday,11:30,3:00,EA1045,Peter,Zizler
 GNED1101,7,40,Thursday,11:30,1:30,W231,Peter,Zizler
