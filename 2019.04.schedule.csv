@@ -22,9 +22,9 @@ COMP1501,405,20,Friday,12:30,1:00,B162,Jordan,Pratt
 COMP1501,501,20,Tuesday,10:30,1:00,B107,Jordan,Pratt
 COMP1501,502,20,Tuesday,11:30,1:00,B107,Jordan,Pratt
 COMP1501,505,20,Tuesday,12:30,1:00,B107,Jordan,Pratt
-COMP1501,2,40,Thursday,11:30,1:00,T235,Ruben,Yumol
-COMP1501,2,40,Wednesday,11:30,1:00,T235,Ruben,Yumol
-COMP1501,2,40,Monday,11:30,1:00,T235,Ruben,Yumol
+COMP1501,2,40,Thursday,11:30,1:00,EA1022,Ruben,Yumol
+COMP1501,2,40,Wednesday,11:30,1:00,EA1022,Ruben,Yumol
+COMP1501,2,40,Monday,11:30,1:00,EA1022,Ruben,Yumol
 COMP1501,403,20,Friday,9:30,1:00,B107,Ruben,Yumol
 COMP1501,404,20,Friday,10:30,1:00,B107,Ruben,Yumol
 COMP1501,503,20,Tuesday,8:30,1:00,B107,Ruben,Yumol
@@ -54,7 +54,7 @@ COMP1631,404,17,Wednesday,14:30,1:00,B162,Paul,Pospisil
 COMP2001,1,50,Friday,10:30,1:00,T107,Patrick,Perri
 COMP2001,1,50,Wednesday,10:30,1:00,T107,Patrick,Perri
 COMP2001,1,50,Monday,10:30,1:00,T107,Patrick,Perri
-COMP2001,401,25,Monday,13:20,1:00,B162,Patrick,Perri
+COMP2001,401,25,Monday,13:30,1:00,B162,Patrick,Perri
 COMP2001,401,25,Wednesday,13:30,1:00,B162,Patrick,Perri
 COMP2001,402,25,Monday,14:30,1:00,B107,Patrick,Perri
 COMP2001,402,25,Wednesday,14:30,1:00,B107,Patrick,Perri
@@ -109,8 +109,8 @@ COMP3532,1,40,Wednesday,14:30,1:30,EA1067,Tyson,Kendon
 COMP3532,1,40,Monday,14:30,1:30,EA1067,Tyson,Kendon
 COMP3532,501,20,Friday,9:30,1:00,B215,Tyson,Kendon
 COMP3532,502,20,Friday,10:30,1:00,B215,Tyson,Kendon
-COMP3533,1,32,Wednesday,10:00,1:30,EB1028,Mingwei,Gong
-COMP3533,1,32,Monday,10:00,1:30,EB1028,Mingwei,Gong
+COMP3533,1,32,Wednesday,10:00,1:30,T135,Mingwei,Gong
+COMP3533,1,32,Monday,10:00,1:30,T135,Mingwei,Gong
 COMP3533,501,16,Thursday,12:00,1:00,B160,Mingwei,Gong
 COMP3533,501,16,Thursday,12:00,1:00,B215,Mingwei,Gong
 COMP3533,502,16,Thursday,13:00,1:00,B160,Mingwei,Gong
