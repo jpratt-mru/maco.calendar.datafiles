@@ -41,8 +41,8 @@ COMP1633,401,20,Thursday,10:00,1:00,B162,Paul,Pospisil
 COMP1633,401,20,Tuesday,10:00,1:00,B162,Paul,Pospisil
 COMP1633,402,20,Thursday,11:00,1:00,B162,Paul,Pospisil
 COMP1633,402,20,Tuesday,11:00,1:00,B162,Paul,Pospisil
-COMP1633,403,20,Thursday,12:30,1:00,B162,Paul,Pospisil
-COMP1633,403,20,Tuesday,12:30,1:00,B162,Paul,Pospisil
+COMP1633,403,20,Thursday,12:30,1:00,B107,Paul,Pospisil
+COMP1633,403,20,Tuesday,12:30,1:00,B107,Paul,Pospisil
 COMP2001,1,50,Thursday,10:00,1:00,E133,Patrick,Perri
 COMP2001,1,50,Tuesday,10:00,1:00,E133,Patrick,Perri
 COMP2001,1,50,Monday,10:00,1:00,E133,Patrick,Perri
@@ -117,8 +117,8 @@ COMP3591,1,10,,,,,Noah,Arney
 COMP3649,1,25,Friday,10:30,1:00,EC1170,Maryam,Elahi
 COMP3649,1,25,Wednesday,10:30,1:00,EC1170,Maryam,Elahi
 COMP3649,1,25,Monday,10:30,1:00,EC1170,Maryam,Elahi
-COMP3649,401,25,Thursday,12:00,1:00,B107,Maryam,Elahi
-COMP3649,401,25,Tuesday,12:00,1:00,B107,Maryam,Elahi
+COMP3649,401,25,Thursday,12:00,1:00,B162,Maryam,Elahi
+COMP3649,401,25,Tuesday,12:00,1:00,B162,Maryam,Elahi
 COMP4513,1,35,Friday,14:30,1:30,B217,Randy,Connolly
 COMP4513,1,35,Wednesday,14:30,1:30,B217,Randy,Connolly
 COMP4543,1,35,Thursday,13:00,1:30,EA2056,Terri,Tibbel-Mosher
