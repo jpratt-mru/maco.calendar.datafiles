@@ -25,8 +25,10 @@ COMP1501,2,40,Monday,14:30,1:00,Q306,Ruben,Yumol
 COMP1501,2,40,Wednesday,14:30,1:00,Q306,Ruben,Yumol
 COMP1501,404,20,Thursday,15:30,1:00,B107,Ruben,Yumol
 COMP1501,405,20,Thursday,16:30,1:00,B107,Ruben,Yumol
+COMP1501,406,20,Wednesday,10:30,1:00,B107,Tyson,Kendon
 COMP1501,504,20,Tuesday,15:30,1:00,B107,Ruben,Yumol
 COMP1501,505,20,Tuesday,16:30,1:00,B107,Ruben,Yumol
+COMP1501,506,20,Tuesday,13:00,1:00,B107,Tyson,Kendon
 COMP1502,1,30,Monday,14:30,1:30,E123,Tyson,Kendon
 COMP1502,1,30,Wednesday,14:30,1:30,E123,Tyson,Kendon
 COMP1502,401,30,Monday,16:00,1:00,B162,Tyson,Kendon
@@ -154,11 +156,11 @@ MATH1200,3,48,Friday,16:00,1:30,EA2057,Carlos,Videla Rico
 MATH1200,3,48,Thursday,16:00,1:00,EA2057,Carlos,Videla Rico
 MATH1200,405,24,Tuesday,8:30,1:00,B217,Carlos,Videla Rico
 MATH1200,406,24,Tuesday,9:30,1:00,B217,Carlos,Videla Rico
-MATH1200,4,48,Wednesday,16:00,1:30,B217,Digby,Smith
-MATH1200,4,48,Friday,16:00,1:30,B217,Digby,Smith
-MATH1200,4,48,Thursday,16:00,1:00,B217,Digby,Smith
-MATH1200,407,24,Tuesday,10:30,1:00,B217,Digby,Smith
-MATH1200,408,24,Tuesday,11:30,1:00,B217,Digby,Smith
+MATH1200,4,48,Wednesday,16:00,1:30,B217,Brady,Killough
+MATH1200,4,48,Friday,16:00,1:30,B217,Brady,Killough
+MATH1200,4,48,Thursday,16:00,1:00,B217,Brady,Killough
+MATH1200,407,24,Tuesday,10:30,1:00,B217,Brady,Killough
+MATH1200,408,24,Tuesday,11:30,1:00,B217,Brady,Killough
 MATH1200,5,48,Tuesday,14:30,1:30,B217,Mariya,Svishchuk
 MATH1200,5,48,Thursday,14:30,1:30,B217,Mariya,Svishchuk
 MATH1200,5,48,Wednesday,14:30,1:00,B217,Mariya,Svishchuk
