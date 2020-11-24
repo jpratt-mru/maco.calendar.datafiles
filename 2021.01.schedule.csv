@@ -1,4 +1,4 @@
-course,section,sectioncapacity,dow,startingtime,duration,room,First Name,Last Name
+course,section,sectioncapacity,dow,startingtime,duration,room,firstname,lastname
 COMP1103,1,50,Wednesday,10:00,1:30,online-001,Jim,Davis
 COMP1103,1,50,Friday,10:00,1:30,online-002,Jim,Davis
 COMP1103,501,25,Tuesday,15:30,1:00,online-003,Jim,Davis
