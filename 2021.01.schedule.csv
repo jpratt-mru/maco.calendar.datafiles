@@ -1,12 +1,12 @@
 course,section,sectioncapacity,dow,startingtime,duration,room,firstname,lastname
-COMP1103,1,50,Wednesday,10:00,1:30,onl001,Jim,Davis
-COMP1103,1,50,Friday,10:00,1:30,onl002,Jim,Davis
-COMP1103,501,25,Tuesday,15:30,1:00,onl003,Jim,Davis
-COMP1103,502,25,Tuesday,12:30,1:00,onl004,Jim,Davis
-COMP1103,2,50,Monday,13:00,1:30,onl005,Mahsa,Amini Tareh
-COMP1103,2,50,Wednesday,13:00,1:30,onl006,Mahsa,Amini Tareh
-COMP1103,503,25,Tuesday,14:30,1:00,onl007,Mahsa,Amini Tareh
-COMP1103,504,25,Tuesday,13:30,1:00,onl008,Mahsa,Amini Tareh
+COMP1103,1,50,Wednesday,10:00,1:30,onl001,Mahsa,Amini Tareh
+COMP1103,1,50,Friday,10:00,1:30,onl002,Mahsa,Amini Tareh
+COMP1103,501,25,Tuesday,15:30,1:00,onl003,Mahsa,Amini Tareh
+COMP1103,502,25,Tuesday,14:30,1:00,onl004,Mahsa,Amini Tareh
+COMP1103,2,50,Monday,13:00,1:30,onl005,Jim,Davis
+COMP1103,2,50,Wednesday,13:00,1:30,onl006,Jim,Davis
+COMP1103,503,25,Tuesday,12:30,1:00,onl007,Jim,Davis
+COMP1103,504,25,Tuesday,13:30,1:00,onl008,Jim,Davis
 COMP1103,3,50,Monday,11:30,1:30,onl009,Patrick,Perri
 COMP1103,3,50,Wednesday,11:30,1:30,onl010,Patrick,Perri
 COMP1103,505,25,Thursday,8:30,1:00,onl011,Patrick,Perri
