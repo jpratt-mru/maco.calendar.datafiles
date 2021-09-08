@@ -29,18 +29,18 @@ COMP1103,505,25,Tuesday,11:30,1:00,onl027,Patrick,Perri
 COMP1103,506,25,Tuesday,12:30,1:00,onl028,Patrick,Perri
 COMP1207,1,35,Monday,10:00,1:30,E203,Patrick,Perri
 COMP1207,1,35,Wednesday,10:00,1:30,E203,Patrick,Perri
-COMP1501,1,60,Monday,13:00,1:30,Q306,New,Hire
-COMP1501,1,60,Wednesday,13:00,1:30,Q306,New,Hire
+COMP1501,1,60,Monday,13:00,1:30,Q306,Charlotte,Curtis
+COMP1501,1,60,Wednesday,13:00,1:30,Q306,Charlotte,Curtis
 COMP1501,2,40,Monday,10:00,1:30,onl29,Mahsa,Amini Tareh
 COMP1501,2,40,Wednesday,10:00,1:30,onl30,Mahsa,Amini Tareh
-COMP1501,401,20,Thursday,14:00,1:00,B107,New,Hire
-COMP1501,402,20,Thursday,15:00,1:00,B107,New,Hire
-COMP1501,403,20,Thursday,16:00,1:00,B107,New,Hire
+COMP1501,401,20,Thursday,14:00,1:00,B107,Charlotte,Curtis
+COMP1501,402,20,Thursday,15:00,1:00,B107,Charlotte,Curtis
+COMP1501,403,20,Thursday,16:00,1:00,B107,Charlotte,Curtis
 COMP1501,404,20,Thursday,11:00,1:00,onl31,Mahsa,Amini Tareh
 COMP1501,405,20,Thursday,12:00,1:00,onl32,Mahsa,Amini Tareh
-COMP1501,501,20,Tuesday,11:00,1:00,B107,New,Hire
-COMP1501,502,20,Tuesday,12:00,1:00,B107,New,Hire
-COMP1501,503,20,Tuesday,13:00,1:00,B107,New,Hire
+COMP1501,501,20,Tuesday,11:00,1:00,B107,Charlotte,Curtis
+COMP1501,502,20,Tuesday,12:00,1:00,B107,Charlotte,Curtis
+COMP1501,503,20,Tuesday,13:00,1:00,B107,Charlotte,Curtis
 COMP1501,504,20,Tuesday,8:30,1:00,onl33,Mahsa,Amini Tareh
 COMP1501,505,20,Tuesday,9:30,1:00,onl34,Mahsa,Amini Tareh
 COMP1502,1,30,Wednesday,14:30,1:30,EA2062,Munima,Jahan
@@ -53,9 +53,9 @@ COMP1615,401,35,Monday,16:00,1:00,onl37,Jim,Davis
 COMP1631,1,34,Monday,13:30,1:00,B220,Paul,Pospisil
 COMP1631,1,34,Tuesday,13:30,1:00,B220,Paul,Pospisil
 COMP1631,1,34,Thursday,13:30,1:00,B220,Paul,Pospisil
-COMP1631,2,34,Monday,10:30,1:00,EA1068,Sohaib,Bajwa
-COMP1631,2,34,Tuesday,10:30,1:00,EA1068,Sohaib,Bajwa
-COMP1631,2,34,Thursday,10:30,1:00,EA1068,Sohaib,Bajwa
+COMP1631,2,34,Monday,10:30,1:00,EA1067,Sohaib,Bajwa
+COMP1631,2,34,Tuesday,10:30,1:00,EA1067,Sohaib,Bajwa
+COMP1631,2,34,Thursday,10:30,1:00,EA1067,Sohaib,Bajwa
 COMP1631,401,17,Wednesday,9:00,1:00,B107,Paul,Pospisil
 COMP1631,401,17,Friday,9:00,1:00,B107,Paul,Pospisil
 COMP1631,402,17,Wednesday,10:00,1:00,B107,Paul,Pospisil
@@ -105,10 +105,10 @@ COMP2613,401,30,Monday,10:30,1:00,T230,Charles,Hepler
 COMP2613,401,30,Wednesday,10:30,1:00,T230,Charles,Hepler
 COMP2631,1,30,Tuesday,14:30,1:30,E206,Jason,Heard
 COMP2631,1,30,Thursday,14:30,1:30,E206,Jason,Heard
-COMP2631,401,29,Wednesday,14:30,2:00,B162,Jason,Heard
-COMP2655,1,25,Monday,11:30,1:00,EA2062,Paul,Pospisil
-COMP2655,1,25,Wednesday,11:30,1:00,EA2062,Paul,Pospisil
-COMP2655,1,25,Friday,11:30,1:00,EA2062,Paul,Pospisil
+COMP2631,401,29,Wednesday,14:30,2:00,E203,Jason,Heard
+COMP2655,1,25,Monday,11:30,1:00,EB1010,Paul,Pospisil
+COMP2655,1,25,Wednesday,11:30,1:00,EB1010,Paul,Pospisil
+COMP2655,1,25,Friday,11:30,1:00,EB1010,Paul,Pospisil
 COMP2655,401,25,Tuesday,10:00,1:00,E203,Paul,Pospisil
 COMP2655,401,25,Thursday,10:00,1:00,E203,Paul,Pospisil
 COMP2655,402,25,Tuesday,9:00,1:00,E203,Paul,Pospisil
@@ -122,8 +122,8 @@ COMP3512,1,40,Tuesday,10:00,1:30,onl53,Jordan,Pratt
 COMP3512,1,40,Thursday,10:00,1:30,onl54,Jordan,Pratt
 COMP3512,401,20,Friday,10:00,1:00,onl55,Jordan,Pratt
 COMP3512,402,20,Friday,11:00,1:00,onl56,Jordan,Pratt
-COMP3532,1,40,Tuesday,8:30,1:30,T225,Mingwei,Gong
-COMP3532,1,40,Thursday,8:30,1:30,T225,Mingwei,Gong
+COMP3532,1,40,Tuesday,8:30,1:30,B217,Mingwei,Gong
+COMP3532,1,40,Thursday,8:30,1:30,B217,Mingwei,Gong
 COMP3532,501,20,Monday,13:30,1:00,B215,Mingwei,Gong
 COMP3532,502,20,Monday,10:30,1:00,B215,Mingwei,Gong
 COMP3533,1,48,Tuesday,8:30,1:30,onl57,Maryam,Elahi
@@ -144,9 +144,9 @@ COMP4513,1,30,Tuesday,13:00,1:30,E123,Randy,Connolly
 COMP4513,1,30,Thursday,13:00,1:30,E123,Randy,Connolly
 COMP4535,1,30,Monday,11:30,1:30,onl62,Mingwei,Gong
 COMP4535,1,30,Wednesday,11:30,1:30,onl63,Mingwei,Gong
-COMP4543,1,30,Tuesday,18:00,3:00,E123,Terri,Tibbel-Mosher
-COMP4545,1,30,Monday,18:00,1:30,T130,Baset,Zarrug
-COMP4545,1,30,Wednesday,18:00,1:30,T130,Baset,Zarrug
+COMP4543,1,30,Tuesday,18:00,3:00,B220,Terri,Tibbel-Mosher
+COMP4545,1,30,Monday,18:00,1:30,E177,Baset,Zarrug
+COMP4545,1,30,Wednesday,18:00,1:30,E177,Baset,Zarrug
 GNED1103,3,40,Tuesday,11:30,1:30,T225,Charles,Hepler
 GNED1103,3,40,Thursday,11:30,1:30,T225,Charles,Hepler
 GNED1203,7,40,Tuesday,13:00,1:30,T225,Charles,Hepler
@@ -159,9 +159,9 @@ MATH1185,1,30,Monday,16:00,1:30,onl64,Peter,Zizler
 MATH1185,1,30,Wednesday,16:00,1:30,onl65,Peter,Zizler
 MATH1185,501,30,Monday,13:00,1:00,onl77,Laura,Marik
 MATH1185,501,30,Wednesday,13:00,1:00,onl78,Laura,Marik
-MATH1200,1,48,Monday,14:30,1:30,B219,Ganesh,Bhandari
-MATH1200,1,48,Wednesday,14:30,1:30,B219,Ganesh,Bhandari
-MATH1200,1,48,Thursday,14:30,1:00,B219,Ganesh,Bhandari
+MATH1200,1,48,Monday,14:30,1:30,Q306,Ganesh,Bhandari
+MATH1200,1,48,Wednesday,14:30,1:30,Q306,Ganesh,Bhandari
+MATH1200,1,48,Thursday,14:30,1:00,Q306,Ganesh,Bhandari
 MATH1200,2,48,Wednesday,16:00,1:30,EB1102,Brady,Killough
 MATH1200,2,48,Friday,16:00,1:30,EB1102,Brady,Killough
 MATH1200,2,48,Thursday,16:00,1:00,EB1102,Brady,Killough
@@ -182,10 +182,10 @@ MATH1200,7,48,Wednesday,11:30,1:30,EA1014,Andria,Dawson
 MATH1200,7,48,Tuesday,11:30,1:00,EA1014,Andria,Dawson
 MATH1200,401,24,Tuesday,14:30,1:00,E125,Ganesh,Bhandari
 MATH1200,402,24,Tuesday,15:30,1:00,E125,Ganesh,Bhandari
-MATH1200,403,24,Monday,10:30,1:00,B219,Brady,Killough
-MATH1200,404,24,Monday,11:30,1:00,B219,Brady,Killough
-MATH1200,405,24,Tuesday,13:00,1:00,B219,Roberta,La Haye
-MATH1200,406,24,Tuesday,14:00,1:00,B219,Roberta,La Haye
+MATH1200,403,24,Monday,10:30,1:00,Y216,Brady,Killough
+MATH1200,404,24,Monday,11:30,1:00,Y216,Brady,Killough
+MATH1200,405,24,Tuesday,13:00,1:00,EA1014,Roberta,La Haye
+MATH1200,406,24,Tuesday,14:00,1:00,EA1014,Roberta,La Haye
 MATH1200,407,24,Monday,11:30,1:00,onl69,Pamini,Thangarajah
 MATH1200,408,24,Monday,12:30,1:00,onl70,Pamini,Thangarajah
 MATH1200,409,24,Tuesday,10:00,1:00,EB1102,Mariya,Svishchuk
@@ -194,16 +194,16 @@ MATH1200,411,24,Friday,14:00,1:00,B231,Carlos,Videla Rico
 MATH1200,412,24,Friday,15:00,1:00,B231,Carlos,Videla Rico
 MATH1200,413,24,Friday,11:00,1:00,B220,Andria,Dawson
 MATH1200,414,24,Friday,10:00,1:00,B220,Andria,Dawson
-MATH1203,1,45,Monday,16:00,1:30,B219,Carlos,Videla Rico
-MATH1203,1,45,Wednesday,16:00,1:30,B219,Carlos,Videla Rico
-MATH1203,2,45,Tuesday,8:30,1:30,B219,Ganesh,Bhandari
-MATH1203,2,45,Thursday,8:30,1:30,B219,Ganesh,Bhandari
+MATH1203,1,45,Monday,16:00,1:30,O226,Carlos,Videla Rico
+MATH1203,1,45,Wednesday,16:00,1:30,O226,Carlos,Videla Rico
+MATH1203,2,45,Tuesday,8:30,1:30,O226,Ganesh,Bhandari
+MATH1203,2,45,Thursday,8:30,1:30,O226,Ganesh,Bhandari
 MATH1203,401,45,Tuesday,16:00,1:00,B217,Carlos,Videla Rico
-MATH1203,402,45,Thursday,13:00,1:00,B219,Ganesh,Bhandari
+MATH1203,402,45,Thursday,13:00,1:00,EA1004,Ganesh,Bhandari
 MATH1205,1,36,Tuesday,10:00,1:30,onl71,Peter,Zizler
 MATH1205,1,36,Thursday,10:00,1:30,onl72,Peter,Zizler
-MATH1271,1,50,Tuesday,11:30,1:30,B219,Eric,Roettger
-MATH1271,1,50,Thursday,11:30,1:30,B219,Eric,Roettger
+MATH1271,1,50,Tuesday,11:30,1:30,O226,Eric,Roettger
+MATH1271,1,50,Thursday,11:30,1:30,O226,Eric,Roettger
 MATH1271,401,25,Thursday,13:00,1:00,T230,Eric,Roettger
 MATH1271,402,25,Monday,14:30,1:00,T230,Eric,Roettger
 MATH1505,1,46,Monday,11:30,1:30,EA1022,Indy,Lagu
