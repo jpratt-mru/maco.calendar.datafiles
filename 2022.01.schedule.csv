@@ -118,8 +118,8 @@ COMP3614,401,20,Tuesday,10:30,1:00,T230,Charles,Hepler
 COMP3649,1,30,Monday,16:00,1:30,T130,Marc,Schroeder
 COMP3649,1,30,Wednesday,16:00,1:30,T130,Marc,Schroeder
 COMP3649,401,30,Tuesday,8:30,2:00,E203,Marc,Schroeder
-COMP4522,1,30,Tuesday,16:00,1:30,T227,TBA001,TBA001
-COMP4522,1,30,Thursday,16:00,1:30,T227,TBA001,TBA001
+COMP4522,1,30,Tuesday,16:00,1:30,T227,Mostafa,Mohamed 
+COMP4522,1,30,Thursday,16:00,1:30,T227,Mostafa,Mohamed 
 COMP4543,1,40,Wednesday,18:00,3:00,T137,Terri,Tibbel-Mosher
 COMP4555,1,30,Monday,14:30,1:30,E206,Charles,Hepler
 COMP4555,1,30,Wednesday,14:30,1:30,E206,Charles,Hepler
@@ -183,9 +183,9 @@ MATH2200,402,40,Monday,16:00,1:00,T225,Ganesh,Bhandari
 MATH2233,1,36,Wednesday,11:30,1:30,B202,Laura,Marik
 MATH2233,1,36,Friday,11:30,1:30,B202,Laura,Marik
 MATH2233,401,36,Wednesday,14:30,2:00,EB1011,Laura,Marik
-MATH2233,2,36,Monday,8:30,1:30,T231,Roberta,La Haye
-MATH2233,2,36,Wednesday,8:30,1:30,T231,Roberta,La Haye
-MATH2233,402,36,Thursday,14:30,2:00,EB1011,Roberta,La Haye
+MATH2233,2,36,Monday,8:30,1:30,T231,Ruben,Yumol
+MATH2233,2,36,Wednesday,8:30,1:30,T231,Ruben,Yumol
+MATH2233,402,36,Thursday,14:30,2:00,EB1011,Ruben,Yumol
 MATH2233,403,36,Thursday,10:30,2:00,EB1011,Ganesh,Bhandari
 MATH2233,3,36,Monday,14:30,1:30,B231,Ganesh,Bhandari
 MATH2233,3,36,Wednesday,14:30,1:30,B231,Ganesh,Bhandari
