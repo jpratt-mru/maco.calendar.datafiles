@@ -1,0 +1,208 @@
+Course ID,CRN,Department,Course Title,Cr Hr,Typ,Days,From-Time,To-Time,Start-Date To End-Date,Bldg,Room,Max_Enr,PoT,Instructor_1,Instructor_2,Instructor_3,Instructor_4,Comment
+COMP-1103-001,40557,MATHEMATICS & COMPUTING,Introduction to Computers,3,LEC,T R,1300pm,1420pm,03-SEP-20 To 22-DEC-20,LP,O218,50,1,Amini Tareh M,,,,Lecture 001 take lab 501 or 502.
+COMP-1103-002,40558,MATHEMATICS & COMPUTING,Introduction to Computers,3,LEC,M W,1430pm,1550pm,03-SEP-20 To 22-DEC-20,LP,B219,50,1,Davis J,,,,Lecture 002 take lab 503 or 504.
+COMP-1103-003,40559,MATHEMATICS & COMPUTING,Introduction to Computers,3,LEC,M W,1130am,1250pm,03-SEP-20 To 22-DEC-20,LP,B101,50,1,Perri P, ,,,Lecture 003 take lab 505 or 506.
+COMP-1103-501,40560,MATHEMATICS & COMPUTING,Laboratory,0,LAB,R,1500pm,1550pm,03-SEP-20 To 22-DEC-20,LP,E203,25,1,Amini Tareh M,,,,
+COMP-1103-502,40561,MATHEMATICS & COMPUTING,Laboratory,0,LAB,R,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,E203,25,1,Amini Tareh M,,,,
+COMP-1103-503,40562,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,1230pm,1320pm,03-SEP-20 To 22-DEC-20,LP,B162,25,1,Davis J,,,,
+COMP-1103-504,40563,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,1330pm,1420pm,03-SEP-20 To 22-DEC-20,LP,B162,25,1,Davis J,,,,
+COMP-1103-505,40564,MATHEMATICS & COMPUTING,Laboratory,0,LAB,M,1330pm,1420pm,03-SEP-20 To 22-DEC-20,LP,B162,25,1,Perri P, ,,,
+COMP-1103-506,40565,MATHEMATICS & COMPUTING,Laboratory,0,LAB,M,1430pm,1520pm,03-SEP-20 To 22-DEC-20,LP,B162,25,1,Perri P, ,,,
+COMP-1207-001,40566,MATHEMATICS & COMPUTING,Intro.  to Digital Technologies,3,LEC,M W,0830am,0950am,03-SEP-20 To 22-DEC-20,LP,E203,35,1,Perri P, ,,,
+COMP-1501-001,40567,MATHEMATICS & COMPUTING,Programming I,3,LEC,M W,1130am,1250pm,03-SEP-20 To 22-DEC-20,LP,T107,40,1,Kendon T,,,,"RESTRICTION: Bachelor of Computer Information Systems | Lecture 001 take tutorial 401 or 402, and lab 501 or 502.  No waitlisting for this course."
+COMP-1501-002,40568,MATHEMATICS & COMPUTING,Programming I,3,LEC,M W,1430pm,1550pm,03-SEP-20 To 22-DEC-20,LP,Q306,60,1,Yumol R, ,,,"RESTRICTION: Bachelor of Computer Information Systems | Lecture 002 take one of tutorials 403 - 405, and one of labs 503 - 505.  No waitlisting for this course."
+COMP-1501-401,40569,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Kendon T,,,,
+COMP-1501-402,40570,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1230pm,1320pm,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Kendon T,,,,
+COMP-1501-403,40571,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1430pm,1520pm,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Yumol R, ,,,
+COMP-1501-404,40572,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1530pm,1620pm,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Yumol R, ,,,
+COMP-1501-405,40573,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1630pm,1720pm,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Yumol R, ,,,
+COMP-1501-501,40574,MATHEMATICS & COMPUTING,Laboratory,0,LAB,T,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Kendon T,,,,
+COMP-1501-502,40575,MATHEMATICS & COMPUTING,Laboratory,0,LAB,T,1200pm,1250pm,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Kendon T,,,,
+COMP-1501-503,40576,MATHEMATICS & COMPUTING,Laboratory,0,LAB,T,1430pm,1520pm,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Yumol R, ,,,
+COMP-1501-504,40577,MATHEMATICS & COMPUTING,Laboratory,0,LAB,T,1530pm,1620pm,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Yumol R, ,,,
+COMP-1501-505,40578,MATHEMATICS & COMPUTING,Laboratory,0,LAB,T,1630pm,1720pm,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Yumol R, ,,,
+COMP-1502-001,40579,MATHEMATICS & COMPUTING,ProgrammingII Object Oriented,3,LEC,M W,1430pm,1550pm,03-SEP-20 To 22-DEC-20,LP,E123,30,1,Kendon T, ,,,RESTRICTION: Bachelor of Computer Information Systems | Lecture 001 take tutorial 401 and lab 501.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/i ndex.htm for details.
+COMP-1502-401,40580,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,B162,30,1,Kendon T,,,,
+COMP-1502-501,40581,MATHEMATICS & COMPUTING,Laboratory,0,LAB,W,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,B162,30,1,Kendon T,,,,
+COMP-1615-001,40582,MATHEMATICS & COMPUTING,Introduction to Programming,3,LEC,M W,1000am,1120am,03-SEP-20 To 22-DEC-20,LP,E203,35,1,Davis J,,,,Lecture 001 take tutorial 401.
+COMP-1615-401,40583,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1330pm,1420pm,03-SEP-20 To 22-DEC-20,LP,E203,35,1,Davis J,,,,
+COMP-1631-001,40584,MATHEMATICS & COMPUTING,Intro Computer Science I,3,LEC,M T R,1130am,1220pm,03-SEP-20 To 22-DEC-20,EA,EA2062,34,1,Pospisil P, ,,,RESTRICTION: Bachelor of Science - Computer Science | Lecture 001 take tutorial 401 or 402.
+COMP-1631-002,40585,MATHEMATICS & COMPUTING,Intro Computer Science I,3,LEC,M T R,1430pm,1520pm,03-SEP-20 To 22-DEC-20,EA,EA1048,34,1,Khemka-Dolan N, ,,,RESTRICTION: Bachelor of Science - Computer Science | Lecture 002 take tutorial 403 or 404.
+COMP-1631-401,40586,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W F,0830am,0920am,03-SEP-20 To 22-DEC-20,LP,B107,17,1,Pospisil P, ,,,
+COMP-1631-402,40587,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W F,1200pm,1250pm,03-SEP-20 To 22-DEC-20,LP,B107,17,1,Pospisil P, ,,,
+COMP-1631-403,40588,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W F,1500pm,1550pm,03-SEP-20 To 22-DEC-20,LP,B107,17,1,Khemka-Dolan N, ,,,
+COMP-1631-404,40589,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W F,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,B107,17,1,Khemka-Dolan N, ,,,
+COMP-2001-001,40590,MATHEMATICS & COMPUTING,Prgramming for the Sciences,3,LEC,M W F,1030am,1120am,03-SEP-20 To 22-DEC-20,LP,B219,50,1,Perri P, ,,,RESTRICTION: Bachelor of Science | Lecture 001 take tutorial 401 or 402.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-2001-002,40591,MATHEMATICS & COMPUTING,Prgramming for the Sciences,3,LEC,M W,0830am,0950am,03-SEP-20 To 22-DEC-20,LP,O226,50,1,Uzoka F, ,,,RESTRICTION: Bachelor of Science | Lecture 002 take tutorial 403 or 404.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-2001-401,40592,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T R,1300pm,1350pm,03-SEP-20 To 22-DEC-20,LP,B162,25,1,Perri P, ,,,
+COMP-2001-402,40593,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T R,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,B162,25,1,Perri P, ,,,
+COMP-2001-403,40594,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W,1300pm,1350pm,03-SEP-20 To 22-DEC-20,LP,B162,25,1,Uzoka F, ,,,
+COMP-2001-403,40594,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1300pm,1350pm,03-SEP-20 To 22-DEC-20,LP,E203,25,1,Uzoka F, ,,,
+COMP-2001-404,40595,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W,1400pm,1450pm,03-SEP-20 To 22-DEC-20,LP,B162,25,1,Uzoka F, ,,,
+COMP-2001-404,40595,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1400pm,1450pm,03-SEP-20 To 22-DEC-20,LP,E203,25,1,Uzoka F, ,,,
+COMP-2503-001,40596,MATHEMATICS & COMPUTING,Programming III:Data Structure,3,LEC,M W,1430pm,1550pm,03-SEP-20 To 22-DEC-20,EB,EB1102,60,1,Elahi B, ,,,RESTRICTION: Bachelor of Computer Information Systems | Lecture 001 take one of tutorials 401 - 403.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings
+COMP-2503-401,40597,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1400pm,1450pm,03-SEP-20 To 22-DEC-20,LP,B162,20,1,Elahi B, ,,,
+COMP-2503-402,40598,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1500pm,1550pm,03-SEP-20 To 22-DEC-20,LP,B162,20,1,Elahi B, ,,,
+COMP-2503-403,40599,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,B162,20,1,Elahi B, ,,,
+COMP-2511-001,40600,MATHEMATICS & COMPUTING,Web I: Client Development,3,LEC,T R,1000am,1120am,03-SEP-20 To 22-DEC-20,LP,T239,20,1,Arney N,,,,RESTRICTION: Bachelor of Computer Information Systems | Lecture 001 take one of labs 501 or 502.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/ind ex.htm for details.
+COMP-2511-101,42650,MATHEMATICS & COMPUTING,Web I: Client Development,3,LEC,T R,1000am,1120am,03-SEP-20 To 22-DEC-20,LP,T239,20,1,Salmani K,,,,Lecture 101 take one of labs 501 or 502.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-2511-501,40601,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,1000am,1050am,03-SEP-20 To 22-DEC-20,LP,B107,20,1,Salmani K,,,,
+COMP-2511-502,40602,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,B162,20,1,Salmani K,,,,
+COMP-2521-001,40603,MATHEMATICS & COMPUTING,Database I: Modelling & Query,3,LEC,M W,0830am,0950am,03-SEP-20 To 22-DEC-20,EB,EB1102,60,1,Ittyipe S, ,,,RESTRICTION: Bachelor of Computer Information Systems and Bachelor of Science - Computer Science | Lecture 001 take one of tutorials 401 - 403.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://ww w.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-2521-401,40604,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,0900am,0950am,03-SEP-20 To 22-DEC-20,LP,E203,20,1,Ittyipe S, ,,,
+COMP-2521-402,40605,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1000am,1050am,03-SEP-20 To 22-DEC-20,LP,E203,20,1,Ittyipe S, ,,,
+COMP-2521-403,40606,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,E203,20,1,Ittyipe S, ,,,
+COMP-2531-001,40607,MATHEMATICS & COMPUTING,Architecture & OperatingSystem,3,LEC,T R,0830am,0950am,03-SEP-20 To 22-DEC-20,EB,EB3130,40,1,Khemka-Dolan N, ,,,RESTRICTION: Bachelor of Computer Information Systems | Lecture 001 take lab 501 or 502.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm f or details.
+COMP-2531-501,40608,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,0900am,0950am,03-SEP-20 To 22-DEC-20,LP,B162,20,1,Khemka-Dolan N, ,,,
+COMP-2531-502,40609,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,1000am,1050am,03-SEP-20 To 22-DEC-20,LP,B162,20,1,Khemka-Dolan N, ,,,
+COMP-2541-001,40610,MATHEMATICS & COMPUTING,Systems Analysis,3,LEC,M W,1000am,1120am,03-SEP-20 To 22-DEC-20,LP,T241,40,1,Ittyipe S, ,,,RESTRICTION: Bachelor of Computer Information Systems | Lecture 001 take tutorial 401 or 402.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.  htm for details.
+COMP-2541-401,40611,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1000am,1050am,03-SEP-20 To 22-DEC-20,LP,E203,20,1,Ittyipe S, ,,,
+COMP-2541-402,40612,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,E203,20,1,Ittyipe S, ,,,
+COMP-2613-001,40613,MATHEMATICS & COMPUTING,Introduction to Computability,3,LEC,M W,1300pm,1420pm,03-SEP-20 To 22-DEC-20,LP,T130,25,1,Schroeder M, ,,,RESTRICTION: Bachelor of Science - Computer Science | Lecture 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for d etails.
+COMP-2613-401,40614,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T R,1230pm,1320pm,03-SEP-20 To 22-DEC-20,LP,E131,25,1,Schroeder M, ,,,
+COMP-2631-001,40615,MATHEMATICS & COMPUTING,Information Structures I,3,LEC,M W,1000am,1120am,03-SEP-20 To 22-DEC-20,LP,E131,29,1,Heard J,,,,RESTRICTION: Bachelor of Science - Computer Science | Lecture 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for d etails.
+COMP-2631-401,40616,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T R,0830am,0920am,03-SEP-20 To 22-DEC-20,LP,B162,29,1,Heard J,,,,
+COMP-2655-001,40617,MATHEMATICS & COMPUTING,Computing Machinery I,3,LEC,T R F,1030am,1120am,03-SEP-20 To 22-DEC-20,LP,E204,25,1,Pospisil P, ,,,RESTRICTION: Bachelor of Science - Computer Science | Lecture 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for d etails.
+COMP-2655-401,40618,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M W,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,E203,25,1,Pospisil P, ,,,
+COMP-3309-001,40619,MATHEMATICS & COMPUTING,Info Technology and Society,3,LEC,W F,1000am,1120am,03-SEP-20 To 22-DEC-20,EB,EB3120,40,1,Connolly R, ,,,Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-3504-001,40620,MATHEMATICS & COMPUTING,Prog IV: Software Engineering,3,LEC,T R,1600pm,1720pm,03-SEP-20 To 22-DEC-20,LP,E206,30,1,Amannejad Y, ,,,Lecture 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-3504-401,40621,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1730pm,1820pm,03-SEP-20 To 22-DEC-20,LP,B162,30,1,Amannejad Y, ,,,
+COMP-3512-001,40622,MATHEMATICS & COMPUTING,Web II: Web Application & Dev,3,LEC,T R,1300pm,1420pm,03-SEP-20 To 22-DEC-20,LP,T225,40,1,Connolly R, ,,,Lecture 001 take tutorials 401 or 402.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-3512-401,40623,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W,1230pm,1320pm,03-SEP-20 To 22-DEC-20,LP,B215,20,1,Connolly R, ,,,
+COMP-3512-402,40624,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W,1330pm,1420pm,03-SEP-20 To 22-DEC-20,LP,B215,20,1,Connolly R, ,,,
+COMP-3532-001,40625,MATHEMATICS & COMPUTING,System Admin an Maintenance,3,LEC,T R,1130am,1250pm,03-SEP-20 To 22-DEC-20,LP,T235,40,1,Kalmar S,,,,Lecture 001 take lab 501 or 502.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-3532-501,40626,MATHEMATICS & COMPUTING,Laboratory,0,LAB,M,1330pm,1420pm,03-SEP-20 To 22-DEC-20,LP,B215,20,1,Kalmar S,,,,
+COMP-3532-502,40627,MATHEMATICS & COMPUTING,Laboratory,0,LAB,M,1430pm,1520pm,03-SEP-20 To 22-DEC-20,LP,B215,20,1,Kalmar S,,,,
+COMP-3533-001,40628,MATHEMATICS & COMPUTING,Network Infrastructure,3,LEC,M W,0830am,0950am,03-SEP-20 To 22-DEC-20,EA,EA1067,48,1,Gong M, ,,,Lecture 001 take one of labs 501 - 503.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-3533-501,40629,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,0900am,0950am,03-SEP-20 To 22-DEC-20,LP,B215,16,1,Gong M, ,,,
+COMP-3533-501,40629,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,0900am,0950am,03-SEP-20 To 22-DEC-20,LP,B160,16,1,Gong M, ,,,
+COMP-3533-502,40630,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,1000am,1050am,03-SEP-20 To 22-DEC-20,LP,B215,16,1,Gong M, ,,,
+COMP-3533-502,40630,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,1000am,1050am,03-SEP-20 To 22-DEC-20,LP,B160,16,1,Gong M, ,,,
+COMP-3533-503,42600,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,B160,16,1,Gong M,,,,
+COMP-3533-503,42600,MATHEMATICS & COMPUTING,Laboratory,0,LAB,F,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,B215,16,1,Gong M,,,,
+COMP-3591-001,40633,MATHEMATICS & COMPUTING,Mandatory Work Experience,0,WKT,TBA,TBA,TBA,03-SEP-20 To 22-DEC-20,TBA,TBA,25,1,TBA,,,,Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-3614-001,42541,MATHEMATICS & COMPUTING,Algorithms & Complexity,3,LEC,T R,0830am,0950am,03-SEP-20 To 22-DEC-20,EA,EA2005,35,1,Hepler C, ,,,Lec 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-3614-401,42542,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W,1000am,1050am,03-SEP-20 To 22-DEC-20,EB,EB1023,35,1,Hepler C, ,,,
+COMP-4535-001,40634,MATHEMATICS & COMPUTING,Computer Security,3,LEC,T R,1130am,1250pm,03-SEP-20 To 22-DEC-20,LP,E206,30,1,Gong M, ,,,Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-4543-001,40635,MATHEMATICS & COMPUTING,Project Mgmt & Quality Assuran,3,LEC,M W,1600pm,1720pm,03-SEP-20 To 22-DEC-20,LP,T230,30,1,Tibbel Mosher T,,,,Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-4545-001,40636,MATHEMATICS & COMPUTING,Info Systems Organization,3,LEC,M W,1000am,1120am,03-SEP-20 To 22-DEC-20,LP,E206,30,1,Yumol R, ,,,Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-4555-001,40637,MATHEMATICS & COMPUTING,Games Development,3,LEC,W F,1430pm,1550pm,03-SEP-20 To 22-DEC-20,LP,E206,30,1,Kazmerik R,,,,Lecture 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+COMP-4555-401,40638,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,E203,30,1,Kazmerik R,,,,
+COMP-5590-001,40639,MATHEMATICS & COMPUTING,Senior Project,3,LEC,TBA,TBA,TBA,03-SEP-20 To 22-DEC-20,TBA,TBA,10,1,Fedoruk A, ,,,RESTRICTION: Bachelor of Computer Information Systems and Department Approval |
+MATH-0115-001,41515,MATHEMATICS & COMPUTING,Foundations of Mathematics I,0,LEC,M W,1200pm,1350pm,03-SEP-20 To 22-DEC-20,LP,T225,40,1,TBA,,,,Lecture 001 take tutorial 401 or 402.
+MATH-0115-001,41515,MATHEMATICS & COMPUTING,Foundations of Mathematics I,0,LEC,F,1200pm,1250pm,03-SEP-20 To 22-DEC-20,LP,B217,40,1,TBA,,,,Lecture 001 take tutorial 401 or 402.
+MATH-0115-002,41516,MATHEMATICS & COMPUTING,Foundations of Mathematics I,0,LEC,T R,1600pm,1820pm,03-SEP-20 To 22-DEC-20,EB,EB1002,40,1,TBA,,,,Lecture 002 take tutorial 403 or 404.
+MATH-0115-003,41517,MATHEMATICS & COMPUTING,Foundations of Mathematics I,0,LEC,M W,1800pm,2020pm,03-SEP-20 To 22-DEC-20,LP,T137,40,1,TBA,,,,Lecture 003 take tutorial 405 or 406.
+MATH-0115-065,41518,MATHEMATICS & COMPUTING,Foundations of Mathematics I,0,LEC,M W,1430pm,1620pm,03-SEP-20 To 22-DEC-20,EB,EB1113,30,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program | Lecture 065 take tutorial 465.
+MATH-0115-065,41518,MATHEMATICS & COMPUTING,Foundations of Mathematics I,0,LEC,F,1430pm,1520pm,03-SEP-20 To 22-DEC-20,EB,EB1113,30,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program | Lecture 065 take tutorial 465.
+MATH-0115-066,41519,MATHEMATICS & COMPUTING,Foundations of Mathematics I,0,LEC,M W,1500pm,1650pm,03-SEP-20 To 22-DEC-20,EB,EB1006,30,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program | Lecture 066 take tutorial 466.
+MATH-0115-066,41519,MATHEMATICS & COMPUTING,Foundations of Mathematics I,0,LEC,F,1500pm,1550pm,03-SEP-20 To 22-DEC-20,EB,EB1006,30,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program | Lecture 066 take tutorial 466.
+MATH-0115-401,41520,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1400pm,1450pm,03-SEP-20 To 22-DEC-20,LP,E206,20,1,TBA,,,,
+MATH-0115-402,41521,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,X305,20,1,TBA,,,,
+MATH-0115-403,41522,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1830pm,1920pm,03-SEP-20 To 22-DEC-20,EB,EB1002,20,1,TBA,,,,
+MATH-0115-404,41523,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1830pm,1920pm,03-SEP-20 To 22-DEC-20,EB,EB1002,20,1,TBA,,,,
+MATH-0115-405,41524,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W,2030pm,2120pm,03-SEP-20 To 22-DEC-20,LP,T137,20,1,TBA,,,,
+MATH-0115-406,41525,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,2030pm,2120pm,03-SEP-20 To 22-DEC-20,LP,T137,20,1,TBA,,,,
+MATH-0115-465,41526,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1530pm,1620pm,03-SEP-20 To 22-DEC-20,EB,EB1113,30,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program |
+MATH-0115-466,41527,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1600pm,1650pm,03-SEP-20 To 22-DEC-20,EB,EB1006,30,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program |
+MATH-0130-001,41528,MATHEMATICS & COMPUTING,Pre-Calculus,0,LEC,M W,0830am,1020am,03-SEP-20 To 22-DEC-20,LP,B217,45,1,TBA,,,,Lecture 001 take tutorial 401 or 402.
+MATH-0130-001,41528,MATHEMATICS & COMPUTING,Pre-Calculus,0,LEC,F,0830am,0920am,03-SEP-20 To 22-DEC-20,LP,B217,45,1,TBA,,,,Lecture 001 take tutorial 401 or 402.
+MATH-0130-002,41529,MATHEMATICS & COMPUTING,Pre-Calculus,0,LEC,M W,1230pm,1420pm,03-SEP-20 To 22-DEC-20,LP,B217,50,1,TBA,,,,Lecture 002 take tutorial 403 or 404.
+MATH-0130-002,41529,MATHEMATICS & COMPUTING,Pre-Calculus,0,LEC,F,1230pm,1320pm,03-SEP-20 To 22-DEC-20,LP,B219,50,1,TBA,,,,Lecture 002 take tutorial 403 or 404.
+MATH-0130-003,41530,MATHEMATICS & COMPUTING,Pre-Calculus,0,LEC,M W,1600pm,1820pm,03-SEP-20 To 22-DEC-20,EA,EA1024,50,1,TBA,,,,Lecture 003 take tutorial 405 or 406.
+MATH-0130-004,41531,MATHEMATICS & COMPUTING,Pre-Calculus,0,LEC,T R,1800pm,2020pm,03-SEP-20 To 22-DEC-20,LP,B217,50,1,TBA,,,,Lecture 004 take tutorial 407 or 408.
+MATH-0130-005,41532,MATHEMATICS & COMPUTING,Pre-Calculus,0,LEC,T R,1130am,1350pm,03-SEP-20 To 22-DEC-20,LP,Q306,50,1,TBA,,,,Lecture 005 take tutorial 409 or 410.
+MATH-0130-065,41533,MATHEMATICS & COMPUTING,Pre-Calculus,0,LEC,M W,0830am,1020am,03-SEP-20 To 22-DEC-20,LP,B217,5,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program | Lecture 065 take tutorial 465.
+MATH-0130-065,41533,MATHEMATICS & COMPUTING,Pre-Calculus,0,LEC,F,0830am,0920am,03-SEP-20 To 22-DEC-20,LP,B217,5,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program | Lecture 065 take tutorial 465.
+MATH-0130-401,41534,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1000am,1050am,03-SEP-20 To 22-DEC-20,LP,B217,20,1,TBA,,,,
+MATH-0130-402,41535,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,T234,25,1,TBA,,,,
+MATH-0130-403,41536,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1500pm,1550pm,03-SEP-20 To 22-DEC-20,LP,E206,25,1,TBA,,,,
+MATH-0130-404,41537,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W,1630pm,1720pm,03-SEP-20 To 22-DEC-20,LP,T234,25,1,TBA,,,,
+MATH-0130-405,41538,MATHEMATICS & COMPUTING,Tutorial,0,TUT,W,1830pm,1920pm,03-SEP-20 To 22-DEC-20,EA,EA1024,25,1,TBA,,,,
+MATH-0130-406,41539,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1830pm,1920pm,03-SEP-20 To 22-DEC-20,EA,EA1024,25,1,TBA,,,,
+MATH-0130-407,41540,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,2030pm,2120pm,03-SEP-20 To 22-DEC-20,LP,B217,25,1,TBA,,,,
+MATH-0130-408,41541,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,2030pm,2120pm,03-SEP-20 To 22-DEC-20,LP,B217,25,1,TBA,,,,
+MATH-0130-409,41542,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1030am,1120am,03-SEP-20 To 22-DEC-20,LP,W207,25,1,TBA,,,,
+MATH-0130-410,41543,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1430pm,1520pm,03-SEP-20 To 22-DEC-20,LP,T234,25,1,TBA,,,,
+MATH-0130-465,41544,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1000am,1050am,03-SEP-20 To 22-DEC-20,LP,B217,5,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program |
+MATH-0131-001,41545,MATHEMATICS & COMPUTING,Calculus and Matrices,0,LEC,T R,1000am,1220pm,03-SEP-20 To 22-DEC-20,LP,T225,40,1,TBA,,,,
+MATH-0132-001,41546,MATHEMATICS & COMPUTING,Foundations of Mathematics II,0,LEC,M W,0830am,1020am,03-SEP-20 To 22-DEC-20,LP,B219,50,1,TBA,,,,Lecture 001 take tutorial 401 or 402.
+MATH-0132-001,41546,MATHEMATICS & COMPUTING,Foundations of Mathematics II,0,LEC,F,0830am,0920am,03-SEP-20 To 22-DEC-20,LP,B219,50,1,TBA,,,,Lecture 001 take tutorial 401 or 402.
+MATH-0132-002,41547,MATHEMATICS & COMPUTING,Foundations of Mathematics II,0,LEC,T R,1600pm,1820pm,03-SEP-20 To 22-DEC-20,LP,B219,50,1,TBA,,,,Lecture 002 take tutorial 403 or 404.
+MATH-0132-003,41548,MATHEMATICS & COMPUTING,Foundations of Mathematics II,0,LEC,T R,1300pm,1520pm,03-SEP-20 To 22-DEC-20,LP,B219,50,1,TBA,,,,Lecture 003 take tutorial 405 or 406.
+MATH-0132-004,41549,MATHEMATICS & COMPUTING,Foundations of Mathematics II,0,LEC,M W,1230pm,1420pm,03-SEP-20 To 22-DEC-20,LP,B219,50,1,TBA,,,,Lecture 004 take tutorial 407 or 408.
+MATH-0132-004,41549,MATHEMATICS & COMPUTING,Foundations of Mathematics II,0,LEC,F,1230pm,1320pm,03-SEP-20 To 22-DEC-20,EA,EA2031,50,1,TBA,,,,Lecture 004 take tutorial 407 or 408.
+MATH-0132-065,41550,MATHEMATICS & COMPUTING,Foundations of Mathematics II,0,LEC,M W,0830am,1020am,03-SEP-20 To 22-DEC-20,EB,EB1109,30,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program | Lecture 065 take tutorial 465.
+MATH-0132-065,41550,MATHEMATICS & COMPUTING,Foundations of Mathematics II,0,LEC,F,0830am,0920am,03-SEP-20 To 22-DEC-20,EB,EB1109,30,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program | Lecture 065 take tutorial 465.
+MATH-0132-401,41551,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,T234,25,1,TBA,,,,
+MATH-0132-402,41552,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,0900am,0950am,03-SEP-20 To 22-DEC-20,LP,Y210,25,1,TBA,,,,
+MATH-0132-403,41553,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1830pm,1920pm,03-SEP-20 To 22-DEC-20,LP,B219,25,1,TBA,,,,
+MATH-0132-404,41554,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1830pm,1920pm,03-SEP-20 To 22-DEC-20,LP,B219,25,1,TBA,,,,
+MATH-0132-405,41555,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,Y210,25,1,TBA,,,,
+MATH-0132-406,41556,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,W227,25,1,TBA,,,,
+MATH-0132-407,41557,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1130am,1220pm,03-SEP-20 To 22-DEC-20,EA,EA2056,25,1,TBA,,,,
+MATH-0132-408,41558,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1030am,1120am,03-SEP-20 To 22-DEC-20,EA,EA2056,25,1,TBA,,,,
+MATH-0132-465,41559,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,0930am,1020am,03-SEP-20 To 22-DEC-20,EB,EB1109,30,1,TBA,,,,RESTRICTION: Indigenous University Bridging Program |
+MATH-1103-001,41560,MATHEMATICS & COMPUTING,Intro.  Statistical Reasoning,3,LEC,M W,1600pm,1720pm,03-SEP-20 To 22-DEC-20,EA,EA2013,35,1,La Haye R, ,,,
+MATH-1150-001,41561,MATHEMATICS & COMPUTING,Mathematical Reasoning,3,LEC,M W,1130am,1250pm,03-SEP-20 To 22-DEC-20,EA,EA2058,35,1,Lagu I, ,,,
+MATH-1185-001,41562,MATHEMATICS & COMPUTING,Calculus with Applications,3,LEC,T R,1600pm,1720pm,03-SEP-20 To 22-DEC-20,LP,Y316,30,1,Zizler P, ,,,RESTRICTION: Bachelor of Science - Environmental Science | Lecture 001 take lab 501.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+MATH-1185-501,41563,MATHEMATICS & COMPUTING,Laboratory,0,LAB,M W,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,B162,30,1,Sobhanzadeh M,,,,
+MATH-1200-001,41564,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,W F,1000am,1120am,03-SEP-20 To 22-DEC-20,EB,EB1102,48,1,Roettger E, ,,,RESTRICTION: Bachelor of Science - Computer Science | Lecture 001 take tutorial 401 or 402.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.ht m for details.
+MATH-1200-001,41564,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,R,1000am,1050am,03-SEP-20 To 22-DEC-20,EB,EB1102,48,1,Roettger E, ,,,RESTRICTION: Bachelor of Science - Computer Science | Lecture 001 take tutorial 401 or 402.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.ht m for details.
+MATH-1200-002,41565,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,T R,1130am,1250pm,03-SEP-20 To 22-DEC-20,LP,B219,48,1,Killough D, ,,,RESTRICTION: Bachelor Degree Students | Lecture 002 take tutorial 403 or 404.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-002,41565,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,W,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,B219,48,1,Killough D, ,,,RESTRICTION: Bachelor Degree Students | Lecture 002 take tutorial 403 or 404.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-003,41566,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,W F,1600pm,1720pm,03-SEP-20 To 22-DEC-20,EA,EA2057,48,1,Videla Rico C,,,,RESTRICTION: Bachelor Degree Students | Lecture 003 take tutorial 405 or 406.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-003,41566,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,R,1600pm,1650pm,03-SEP-20 To 22-DEC-20,EA,EA2057,48,1,Videla Rico C,,,,RESTRICTION: Bachelor Degree Students | Lecture 003 take tutorial 405 or 406.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-004,41567,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,W F,1600pm,1720pm,03-SEP-20 To 22-DEC-20,LP,B217,48,1,Smith D, ,,,RESTRICTION: Bachelor Degree Students | Lecture 004 take tutorial 407 or 408.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-004,41567,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,R,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,B217,48,1,Smith D, ,,,RESTRICTION: Bachelor Degree Students | Lecture 004 take tutorial 407 or 408.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-005,41568,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,T R,1430pm,1550pm,03-SEP-20 To 22-DEC-20,LP,B217,48,1,Svishchuk M, ,,,RESTRICTION: Bachelor Degree Students | Lecture 005 take tutorial 409 or 410.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-005,41568,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,W,1430pm,1520pm,03-SEP-20 To 22-DEC-20,LP,B217,48,1,Svishchuk M, ,,,RESTRICTION: Bachelor Degree Students | Lecture 005 take tutorial 409 or 410.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-006,41569,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,T R,1300pm,1420pm,03-SEP-20 To 22-DEC-20,EB,EB1102,48,1,La Haye R, ,,,RESTRICTION: Bachelor Degree Students | Lecture 006 take tutorial 411 or 412.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-006,41569,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,W,1300pm,1350pm,03-SEP-20 To 22-DEC-20,EB,EB1102,48,1,La Haye R,,,,RESTRICTION: Bachelor Degree Students | Lecture 006 take tutorial 411 or 412.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details
+MATH-1200-007,41570,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,M W,1430pm,1550pm,03-SEP-20 To 22-DEC-20,EA,EA2057,48,1,Thangarajah P, ,,,Lecture 007 take tutorial 413 or 414.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+MATH-1200-007,41570,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,T,1430pm,1520pm,03-SEP-20 To 22-DEC-20,EA,EA2057,48,1,Thangarajah P, ,,,Lecture 007 take tutorial 413 or 414.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+MATH-1200-008,42644,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,T R,1130am,1250pm,03-SEP-20 To 22-DEC-20,EB,EB1018,48,1,Videla Rico C, ,,,Lecture 008 take tutorial 415 or 416.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+MATH-1200-008,42644,MATHEMATICS & COMPUTING,Calculus for Scientists I,3,LEC,W,1130am,1220pm,03-SEP-20 To 22-DEC-20,EB,EB1010,48,1,Videla Rico C, ,,,Lecture 008 take tutorial 415 or 416.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+MATH-1200-401,41571,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1530pm,1620pm,03-SEP-20 To 22-DEC-20,LP,B220,24,1,Roettger E, ,,,
+MATH-1200-402,41572,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1630pm,1720pm,03-SEP-20 To 22-DEC-20,LP,B220,24,1,Roettger E, ,,,
+MATH-1200-403,41573,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1500pm,1550pm,03-SEP-20 To 22-DEC-20,LP,E125,24,1,Killough D, ,,,
+MATH-1200-404,41574,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1600pm,1650pm,03-SEP-20 To 22-DEC-20,LP,E125,24,1,Killough D, ,,,
+MATH-1200-405,41575,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,0830am,0920am,03-SEP-20 To 22-DEC-20,LP,B217,24,1,Smith D,,,,
+MATH-1200-406,41576,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,0930am,1020am,03-SEP-20 To 22-DEC-20,LP,B217,24,1,Smith D,,,,
+MATH-1200-407,41577,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1030am,1120am,03-SEP-20 To 22-DEC-20,LP,B217,24,1,Videla Rico C, ,,,
+MATH-1200-408,41578,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,B217,24,1,Videla Rico C, ,,,
+MATH-1200-409,41579,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1000am,1050am,03-SEP-20 To 22-DEC-20,LP,B222,24,1,Svishchuk M, ,,,
+MATH-1200-410,41580,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1100am,1150am,03-SEP-20 To 22-DEC-20,LP,B222,24,1,Svishchuk M, ,,,
+MATH-1200-411,41581,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,B231,24,1,La Haye R, ,,,
+MATH-1200-412,41582,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1230pm,1320pm,03-SEP-20 To 22-DEC-20,LP,B231,24,1,La Haye R, ,,,
+MATH-1200-413,41583,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1400pm,1450pm,03-SEP-20 To 22-DEC-20,LP,E123,24,1,Thangarajah P, ,,,
+MATH-1200-414,41584,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1500pm,1550pm,03-SEP-20 To 22-DEC-20,LP,W207,24,1,Thangarajah P, ,,,
+MATH-1200-415,42645,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1130am,1220pm,03-SEP-20 To 22-DEC-20,EB,EB1018,24,1,Videla Rico C, ,,,
+MATH-1200-416,42646,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1230pm,1320pm,03-SEP-20 To 22-DEC-20,EB,EB1018,24,1,Videla Rico C, ,,,
+MATH-1203-001,41585,MATHEMATICS & COMPUTING,Algebra for Scientists & Engr,3,LEC,W F,1130am,1250pm,03-SEP-20 To 22-DEC-20,EB,EB1102,45,1,Thangarajah P, ,,,Lecture 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+MATH-1203-002,41586,MATHEMATICS & COMPUTING,Algebra for Scientists & Engr,3,LEC,M W,1300pm,1420pm,03-SEP-20 To 22-DEC-20,EA,EA1053,45,1,Bhandari G, ,,,Lecture 002 take tutorial 402.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+MATH-1203-003,41587,MATHEMATICS & COMPUTING,Algebra for Scientists & Engr,3,LEC,M W,1300pm,1420pm,03-SEP-20 To 22-DEC-20,LP,O218,45,1,Svishchuk M, ,,,RESTRICTION: Bachelor of Science - Computer Science | Lecture 003 take tutorial 403.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for d etails.
+MATH-1203-401,41588,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,X305,45,1,Thangarajah P, ,,,
+MATH-1203-402,41589,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1300pm,1350pm,03-SEP-20 To 22-DEC-20,LP,B217,45,1,Bhandari G, ,,,
+MATH-1203-403,41590,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1300pm,1350pm,03-SEP-20 To 22-DEC-20,EA,EA1024,45,1,Svishchuk M, ,,,
+MATH-1205-001,41591,MATHEMATICS & COMPUTING,The Beauty of Mathematics,3,LEC,W F,1430pm,1550pm,03-SEP-20 To 22-DEC-20,EA,EA1022,36,1,Lagu I, ,,,
+MATH-1505-001,41592,MATHEMATICS & COMPUTING,Puzzling Adventures in Math,3,LEC,M W,1300pm,1420pm,03-SEP-20 To 22-DEC-20,LP,T235,40,1,Dawson A, ,,,Lecture 001 take tutorial 401 or 402.
+MATH-1505-401,41593,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1030am,1120am,03-SEP-20 To 22-DEC-20,LP,B220,20,1,Dawson A, ,,,
+MATH-1505-402,41594,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,B220,20,1,Dawson A, ,,,
+MATH-2200-001,41595,MATHEMATICS & COMPUTING,Calculus for Scientists II,3,LEC,M T R,1430pm,1520pm,03-SEP-20 To 22-DEC-20,LP,Y316,40,1,Lagu I, ,,,Lecture 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm for details.
+MATH-2200-401,41596,MATHEMATICS & COMPUTING,Tutorial,0,TUT,M,1630pm,1720pm,03-SEP-20 To 22-DEC-20,LP,W227,40,1,Lagu I, ,,,
+MATH-2233-001,41597,MATHEMATICS & COMPUTING,Statistics for Biol Sciences,3,LEC,M W,0830am,0950am,03-SEP-20 To 22-DEC-20,LP,E133,36,1,Liu S,,,,"RESTRICTION: Bachelor of Science - Biology, Cellular and Molecular Biology, and Health Science majors | Lecture 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal"
+MATH-2233-002,41598,MATHEMATICS & COMPUTING,Statistics for Biol Sciences,3,LEC,T R,0830am,0950am,03-SEP-20 To 22-DEC-20,LP,T231,36,1,Bhandari G, ,,,"RESTRICTION: Bachelor of Science - Biology, Cellular and Molecular Biology, and Health Science majors | Lecture 002 take tutorial 402.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal"
+MATH-2233-401,41599,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,0830am,1020am,03-SEP-20 To 22-DEC-20,EB,EB1011,36,1,Liu S,,,,
+MATH-2233-402,41600,MATHEMATICS & COMPUTING,Tutorial,0,TUT,R,1430pm,1620pm,03-SEP-20 To 22-DEC-20,EB,EB1011,36,1,Bhandari G, ,,,
+MATH-2235-001,41601,MATHEMATICS & COMPUTING,Stat with App in Geology,3,LEC,M W,1600pm,1720pm,03-SEP-20 To 22-DEC-20,LP,E131,30,1,Krishnamurthy A, ,,,RESTRICTION: Bachelor of Science - Geology | Lecture 001 take tutorial 401 and lab 501.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.htm f or details.
+MATH-2235-401,41602,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1500pm,1550pm,03-SEP-20 To 22-DEC-20,LP,T130,30,1,Krishnamurthy A, ,,,
+MATH-2235-501,41603,MATHEMATICS & COMPUTING,Laboratory,0,LAB,T,1600pm,1650pm,03-SEP-20 To 22-DEC-20,EB,EB1011,30,1,Krishnamurthy A, ,,,
+MATH-2333-001,41604,MATHEMATICS & COMPUTING,Statistics for Life Sciences,3,LEC,T R,1430pm,1550pm,03-SEP-20 To 22-DEC-20,LP,T225,40,1,Liu S, ,,,RESTRICTION: Bachelor of Nursing and Bachelor of Midwifery | Lecture 001 take tutorial 401.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.ht m for details.
+MATH-2333-002,41605,MATHEMATICS & COMPUTING,Statistics for Life Sciences,3,LEC,M W,1130am,1250pm,03-SEP-20 To 22-DEC-20,LP,E133,40,1,Bhandari G, ,,,RESTRICTION: Bachelor of Nursing and Bachelor of Midwifery | Lecture 002 take tutorial 402.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.ht m for details.
+MATH-2333-003,41606,MATHEMATICS & COMPUTING,Statistics for Life Sciences,3,LEC,M W,1130am,1250pm,03-SEP-20 To 22-DEC-20,LP,T235,40,1,Roettger E, ,,,RESTRICTION: Bachelor of Nursing and Bachelor of Midwifery | Lecture 003 take tutorial 403.  Prerequisite checking is in effect for this course.  Refer to the current MRU http://www.mtroyal.ca/ProgramsCourses/CourseListings/index.ht m for details.
+MATH-2333-401,41607,MATHEMATICS & COMPUTING,Tutorial,0,TUT,F,1400pm,1450pm,03-SEP-20 To 22-DEC-20,LP,E147,40,1,Liu S, ,,,
+MATH-2333-402,41608,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1030am,1120am,03-SEP-20 To 22-DEC-20,LP,E147,40,1,Bhandari G, ,,,
+MATH-2333-403,41609,MATHEMATICS & COMPUTING,Tutorial,0,TUT,T,1130am,1220pm,03-SEP-20 To 22-DEC-20,LP,E147,40,1,Roettger E, ,,,
+MATH-3202-001,41610,MATHEMATICS & COMPUTING,Mathematics through the Ages,3,LEC,W F,1600pm,1720pm,03-SEP-20 To 22-DEC-20,LP,T131,35,1,Lagu I, ,,,
+MATH-4201-001,41611,MATHEMATICS & COMPUTING,Seminar,3,LEC,M,1130am,1420pm,03-SEP-20 To 22-DEC-20,EA,EA1045,10,1,Zizler P, ,,,RESTRICTION: Department Approval |
