@@ -27,7 +27,6 @@ COMP1501,404,20,Thursday,8:30,1:00,B107,Jordan ,Pratt
 COMP1501,405,20,Thursday,9:30,1:00,B107,Jordan ,Pratt
 COMP1501,504,20,Tuesday,8:30,1:00,B107,Jordan ,Pratt
 COMP1501,505,20,Tuesday,9:30,1:00,B107,Jordan ,Pratt
-COMP1501,505,20,Tuesday,9:30,1:00,B107,Jordan ,Pratt
 COMP1501,3,40,Monday,11:30,1:30,T133,Apoorve ,Chokshi
 COMP1501,3,40,Wednesday,11:30,1:30,T133,Apoorve ,Chokshi
 COMP1501,406,20,Thursday,10:30,1:00,B107,Apoorve ,Chokshi
@@ -133,7 +132,6 @@ COMP3533,1,48,Thursday,11:30,1:30,W231,Maryam,Elahi
 COMP3533,501,16,Wednesday,10:30,1:00,B215,Maryam,Elahi
 COMP3533,502,16,Wednesday,11:30,1:00,B215,Maryam,Elahi
 COMP3533,503,16,Wednesday,12:30,1:00,B215,Maryam,Elahi
-COMP3591,1,10,,,,,,
 COMP3612,1,30,Monday,13:00,1:30,B220,Randy,Connolly
 COMP3612,1,30,Wednesday,13:00,1:30,B220,Randy,Connolly
 COMP3612,501,30,Tuesday,13:00,1:00,B162,Randy,Connolly
@@ -150,8 +148,6 @@ COMP4545,1,35,Wednesday,18:00,3:00,E133,Baset,Zarrug
 COMP4555,1,30,Monday,10:00,1:30,E123,Ryan,Kazmarik
 COMP4555,1,30,Wednesday,10:00,1:30,E123,Ryan,Kazmarik
 COMP4555,401,30,Monday,11:30,1:00,E203,Ryan,Kazmarik
-COMP5590,1,10,,,,,Khosro,Salmani
-COMP5690,1,10,,,,,Khosro,Salmani
 MATH1103,1,35,Monday,16:00,1:30,EA2052,Ashok,Krishnamurthy
 MATH1103,1,35,Wednesday,16:00,1:30,EA2052,Ashok,Krishnamurthy
 MATH1150,1,35,Monday,8:30,1:30,EA2052,Indrajit,Lagu
