@@ -166,9 +166,9 @@ MATH1200,2,48,Thursday,13:00,1:30,B217,Pamini,Thangarajah
 MATH1200,2,48,Wednesday,13:00,1:00,B217,Pamini,Thangarajah
 MATH1200,403,24,Monday,15:30,1:00,B231,Pamini,Thangarajah
 MATH1200,404,24,Monday,16:30,1:00,B231,Pamini,Thangarajah
-MATH1200,3,48,Tuesday,11:30,1:30,EA1014,Eric,Roettger
-MATH1200,3,48,Thursday,11:30,1:30,EA1014,Eric,Roettger
-MATH1200,3,48,Friday,11:30,1:00,EA1014,Eric,Roettger
+MATH1200,3,48,Tuesday,11:30,1:30,T141,Eric,Roettger
+MATH1200,3,48,Thursday,11:30,1:30,T141,Eric,Roettger
+MATH1200,3,48,Friday,11:30,1:00,T141,Eric,Roettger
 MATH1200,405,24,Friday,8:30,1:00,B220,Eric,Roettger
 MATH1200,406,24,Friday,9:30,1:00,B220,Eric,Roettger
 MATH1200,4,48,Tuesday,16:00,1:30,B217,Mariya,Svishchuk
@@ -191,9 +191,9 @@ MATH1200,7,48,Wednesday,10:00,1:30,EA1014,Roberta,La Haye
 MATH1200,7,48,Tuesday,10:00,1:00,B217,Roberta,La Haye
 MATH1200,413,24,Friday,14:00,1:00,B202,Roberta,La Haye
 MATH1200,414,24,Friday,15:00,1:00,B202,Roberta,La Haye
-MATH1200,8,48,Tuesday,11:30,1:30,T141,Keira,Gunn
-MATH1200,8,48,Thursday,11:30,1:30,T141,Keira,Gunn
-MATH1200,8,48,Wednesday,11:30,1:00,T141,Keira,Gunn
+MATH1200,8,48,Tuesday,11:30,1:30,EA1014,Keira,Gunn
+MATH1200,8,48,Thursday,11:30,1:30,EA1014,Keira,Gunn
+MATH1200,8,48,Wednesday,11:30,1:00,EA1022,Keira,Gunn
 MATH1200,415,24,Friday,8:30,1:00,T130,Keira,Gunn
 MATH1200,416,24,Friday,9:30,1:00,T130,Keira,Gunn
 MATH1203,1,45,Monday,16:00,1:30,B217,Digby,Smith
